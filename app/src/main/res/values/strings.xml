@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TxtArchivos</string>
+    <string name="Ingrese">Ingrese su Nombre</string>
+    <string name="Cont">Contenido</string>
+    <string name="Cargar">Cargar</string>
+    <string name="Grabar">Grabar</string>
+</resources>
